@@ -1,1 +1,3 @@
-/HomeWorkArraysAdditional.iml
+*.iml
+/out/
+/.idea/
